@@ -22,6 +22,20 @@
 <img width="1426" alt="Capture d’écran 2023-02-12 à 21 51 57" src="https://user-images.githubusercontent.com/86270481/218336430-cbc359a6-ce8d-4a07-b672-29f4c862e93b.png">
 
 
+## Dependencies
+```
+npm install express
+```
+
+```
+npm install nodemon
+```
+
+```
+npm install body-parser
+```
+
+
 ## Launch the server
 ```
 node server.js
