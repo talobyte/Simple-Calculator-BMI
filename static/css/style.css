@@ -1,0 +1,98 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navbar{
+    padding: 3%;
+}
+
+video{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    outline: none;
+    z-index: -1;
+    object-fit: cover;
+}
+
+.row{
+    padding: 5%;
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 30px;
+    color: white;
+}
+
+.background{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(90deg, #00f, #f00);
+    position: fixed;
+    top: 0;
+    mix-blend-mode: overlay;
+    z-index: -1;
+}
+
+.row h1{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 70px;
+    color: white;
+}
+
+.row h2{
+    font-weight: 900;
+    font-size: 55px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.row p{
+    color: white;
+}
+
+button{
+    text-transform: uppercase;
+    border-radius: 1px;
+    border: none;
+    padding: 2% 5%;
+    border-radius: 30px;
+}
+
+
+input{
+    border: none;
+    padding: 2% 5%;
+    outline: none;
+    border-radius: 30px;  
+    background: transparent;
+    transition: .3s;
+    margin-right: 20px;
+    border: 2px solid white;
+    color: white;
+}::placeholder{
+    font-size: 20px;
+    color: white;
+}
+
+input:focus{
+    transform: scale(1.1);
+}
+
+p{
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.inputs{
+    margin-bottom: 20px;
+}
