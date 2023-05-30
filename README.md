@@ -16,10 +16,10 @@
 </p>
 
  ## Home Page
- <img width="1432" alt="Capture d’écran 2023-02-12 à 21 44 46" src="https://user-images.githubusercontent.com/86270481/218336096-5c0d2565-764a-46d3-aadd-124807754c7e.png">
+ <img width="1432" alt="BMI calculator irydev" src="https://user-images.githubusercontent.com/86270481/218336096-5c0d2565-764a-46d3-aadd-124807754c7e.png">
  
 ## Response
-<img width="1426" alt="Capture d’écran 2023-02-12 à 21 51 57" src="https://user-images.githubusercontent.com/86270481/218336430-cbc359a6-ce8d-4a07-b672-29f4c862e93b.png">
+<img width="1426" alt='BMI calculator responses irydev" src="https://user-images.githubusercontent.com/86270481/218336430-cbc359a6-ce8d-4a07-b672-29f4c862e93b.png">
 
 
 ## Dependencies
