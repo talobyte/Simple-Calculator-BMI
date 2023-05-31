@@ -1,4 +1,4 @@
-# BMI-Calculator
+# Simple BMI-Calculator
 ### BY TALO
 
 ## Dependencies
